@@ -1,5 +1,5 @@
 {
-  "name": "simple-webpack-es6-sass",
+  "name": "simple-webpack-es6-sass-react",
   "version": "1.0.0",
   "description": "Simple web development boilerplate with React. Webpack, babel, SASS. Web server, hot module replacement, caching, HTML templates, PWA and easy support for favicons are out of box. Also React and JSX",
   "private": true,
@@ -39,6 +39,7 @@
   "dependencies": {
     "lodash": "^4.17.11",
     "react": "^16.8.1",
-    "react-dom": "^16.8.1"
+    "react-dom": "^16.8.1",
+    "react-router-dom": "^4.3.1"
   }
 }
