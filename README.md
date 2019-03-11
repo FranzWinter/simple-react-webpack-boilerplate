@@ -6,6 +6,7 @@ It is a very simple webpack configuration for general web development. It offers
 - automatic compression for images. Small images (less than 8kB) are converted to inline to reduce requests
 - hot module replacement using webpack-dev-server
 - tree shaking / dead-code elimination
+- Jest JavaScript testing framework
 - caching with user-friendly '[name].[hash].' names
 - Service Workers - Progressive Web Application
 
